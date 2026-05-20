@@ -19,8 +19,3 @@
   </a>
 </div>
 
-###
-
-<img align="left" height="150" src="https://s1.ezgif.com/tmp/ezgif-1af5420a394b12d6.gif"  />
-
-###
