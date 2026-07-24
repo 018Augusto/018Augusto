@@ -3,6 +3,18 @@
 ## Contato:
 
 **+55 18 996979954**
+**augustobk37@gmail.com**
+
+### Certificados
+- *Excel Básico* (SENAI)
+- *Fundamentos da IA* (SENAI)
+- *Ética da IA* (SENAI)
+- *Segurança no trabalho* (SENAI)
+- *Ciclos de Retorno para a Economia Circular* (SENAI)
+- *Acelerando a Transição para a Economia Circular* (SENAI)
+- *Desvendando a Descarbonização* (SENAI)
+- *Fundamentos e Ações da Economia Circular* (SENAI)
+- *Por dentro da Segurança Cibernética* (SENAI)
 
 ###
 
@@ -13,11 +25,10 @@
 </div>
 
 ###
-
+## Redes Sociais
 <div align="left">
   <a href="https://www.instagram.com/018.augusto/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   
-### Certificados
 
-![Segurança no Trabalho](file:///C:/Users/g.augusto/Documents/Certificado_Compet%C3%AAncia%20Transversal%20-%20Seguran%C3%A7a%20no%20Trabalh.pdf)
+
