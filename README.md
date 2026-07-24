@@ -1,7 +1,7 @@
 <h2 align="center"> Olá, eu sou Gabriel Augusto!<br><br> Gabriel Augusto | Estudante de T.I (SENAI)<br> Apaixonado por tecnologia e desenvolvimento<br> Curioso por aprender novas linguagens e ferramentas<br> Em constante evolução no mundo da programação<br> Interesse em back-end, front-end e lógica<br> Gamer nas horas vagas (Valorant & GTA RP)<br> Aberto a projetos, ideias e colaboração<br> Buscando crescimento pessoal e profissional<br> Determinado a construir um futuro na área tech<br> Foco, disciplina e evolução diária!</h2>
 
 ## Contato:
-
+**+55 18997969954**
 **augustobk37@gmail.com**
 
 ### Certificados
