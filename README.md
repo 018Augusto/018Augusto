@@ -6,15 +6,15 @@
 **augustobk37@gmail.com**
 
 ### Certificados
-- *Excel Básico* (SENAI) 3 horas
-- *Fundamentos da IA* (SENAI) 2 horas
-- *Ética da IA* (SENAI) 2 horas
-- *Segurança no trabalho* (SENAI) 2 horas
-- *Ciclos de Retorno para a Economia Circular* (SENAI) 2 horas
-- *Acelerando a Transição para a Economia Circular* (SENAI) 3 horas
-- *Desvendando a Descarbonização* (SENAI) 3 horas
-- *Fundamentos e Ações da Economia Circular* (SENAI) 2 horas
-- *Por dentro da Segurança Cibernética* (SENAI) 3 horas
+- *Excel Básico* (SENAI) 20 horas
+- *Fundamentos da IA* (SENAI) 8 horas
+- *Ética da IA* (SENAI) 4 horas
+- *Segurança no trabalho* (SENAI) 14 horas
+- *Ciclos de Retorno para a Economia Circular* (SENAI) 4 horas
+- *Acelerando a Transição para a Economia Circular* (SENAI) 4 horas
+- *Desvendando a Descarbonização* (SENAI) 20 horas
+- *Fundamentos e Ações da Economia Circular* (SENAI) 4 horas
+- *Por dentro da Segurança Cibernética* (SENAI) 4 horas
 
 ###
 
