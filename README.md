@@ -2,8 +2,6 @@
 
 ## Contato:
 
-**+55 18 996979954**
-
 **augustobk37@gmail.com**
 
 ### Certificados
