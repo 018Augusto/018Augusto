@@ -20,7 +20,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img src="https://logospng.org/wp-content/uploads/css-3.png" height="10" alt="CSS logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIDIW_IPkKCHUgME2KMlbZzl1absTnkL41VQv0jyuhMd4Zp9p-MbJ1R8o&s=10" height="30" alt="CSS logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
 </div>
